@@ -1,0 +1,15 @@
+/*Removes default on the body-tag*/
+body{
+    margin:0;
+}
+
+header{
+  background-color: #192837;
+  color: white;
+}
+
+#Person{
+  background-color: #918273;
+  height: 270px;
+  width: 1920px;
+}
